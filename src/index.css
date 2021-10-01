@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+#root{
+    height: auto;
+
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: 5px 5px 5px -5px rgba(34, 60, 80, 0.2) inset;
+    background-color: #f9f9fd;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background: #3382ba;
+}
+
+::selection {
+    color: #ffffff;
+    background-color: #95ddff;
+}

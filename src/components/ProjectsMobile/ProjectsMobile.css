@@ -1,0 +1,15 @@
+.rec.rec-dot_active{
+    background-color: #364d75;
+    box-shadow: 0 0 1px 3px rgb(133, 160, 226);
+
+}
+
+.rec.rec-dot:hover{
+    box-shadow: 0 0 1px 3px rgb(133, 160, 226);
+}
+
+.rec.rec-dot:focus{
+    background-color: #364d75;
+    box-shadow: 0 0 1px 3px rgb(133, 160, 226);
+}
+
